@@ -1,0 +1,22 @@
+{
+  "name": "toodark",
+  "displayName": "Too Dark",
+  "description": "Too dark, you sure you aren't from the DC Universe?",
+  "version": "0.0.1",
+  "publisher": "nshntarora",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Too Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Too Dark-color-theme.json"
+      }
+    ]
+  }
+}
